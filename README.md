@@ -10,7 +10,7 @@ Clone this repository
 
 First, you need to set a correct path to your ```xdsdfu```-tool to ```config.json```
 
-This can be done by setting the value of string ```xdsfuPath``` in the config.
+This can be done by setting the value of string ```xdsfuPath``` in the config. The path string needs to end with "/" or "\\"
 
 **Reminder**
 Use /-characters in the path. If you really need to use "\\" remember to escape them (\\\\)
