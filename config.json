@@ -1,0 +1,9 @@
+{
+    "xdsfuPath": "",
+    "firmwareBinaries": {
+        "22": "firmware_3.0.0.22.bin",
+        "18": "firmware_3.0.0.18.bin",
+        "20": "firmware_3.0.0.20.bin",
+        "16": "firmware_3.0.0.16.bin"
+    }
+}
